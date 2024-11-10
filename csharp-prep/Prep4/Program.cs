@@ -17,7 +17,7 @@ class Program
             string response = Console.ReadLine();
             userNumber = int.Parse(response);
 
-            if (userNumber != 0);
+            if (userNumber != 0)
             {
                 numbers.Add(userNumber);
             }
